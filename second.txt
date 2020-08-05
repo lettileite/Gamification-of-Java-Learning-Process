@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 this is a second file
@@ -7,3 +8,6 @@ this is a second file
 =======
 this is a second file
 >>>>>>> parent of 343fe38... just try to commit from the gui
+=======
+hello
+>>>>>>> f90864c82caaa4b2d22e64a11fe04b15c58e99d5
