@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello
+=======
 this is a second file
-
-modify a bit
+>>>>>>> parent of 343fe38... just try to commit from the gui
+=======
+this is a second file
+>>>>>>> parent of 343fe38... just try to commit from the gui
